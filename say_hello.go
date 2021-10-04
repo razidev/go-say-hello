@@ -1,7 +1,7 @@
 package gosayhello
 
 func SayHello(name string) string {
-	return "Hello " + name
+	return "Hello Developer" + name
 }
 
 //untuk melakukan perubahan versi setelah add - push lakukan
